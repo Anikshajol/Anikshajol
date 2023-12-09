@@ -1,4 +1,6 @@
-### Hi there 👋
+![my banner](./assets//Yellow%20Professional%20Gradient%20App%20Development%20Banner%20Landscape.gif)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anikshajol&theme=dark&border_radius=5.8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **anikshajol/anikshajol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
